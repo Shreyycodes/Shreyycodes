@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Shreyas Singh
+
+**A Final-Year Computer Science Student | Full-Stack Developer (MERN) | DSA Enthusiast from India 🇮🇳**
+
+📧 **Email Me:** [2k23.csiot2311977@gmail.com](mailto:2k23.csiot2311977@gmail.com) for collaboration, projects, or opportunities.
+
+* 🔭 **I’m currently working on:** Full-Stack Web Applications and Backend Development Projects
+* 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms, System Design, and Backend Engineering
+* 👯 **I’m looking to collaborate on:** MERN Stack, Open Source, and AI-powered Web Applications
+* 🤔 **I’m looking for help with:** Scaling Full-Stack Applications and Backend Architecture
+* 💬 **Ask me about:** Java, C++, DSA, MERN Stack, REST APIs, MongoDB, and Web Development
+* 📫 **How to reach me:** [2k23.csiot2311977@gmail.com](mailto:shreyashsingh072@gmail.com)
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** Solving coding problems and building projects is my favorite way to learn new technologies.
+
+🏆 **Top 21 at GDG Cloud HackFest 2025**
+
+💻 **150+ LeetCode Problems Solved**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashsinghrajput._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas7singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashsingh072@gmail.com) 
