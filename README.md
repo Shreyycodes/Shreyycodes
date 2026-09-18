@@ -9,7 +9,7 @@
 * 👯 **I’m looking to collaborate on:** MERN Stack, Open Source, and AI-powered Web Applications
 * 🤔 **I’m looking for help with:** Scaling Full-Stack Applications and Backend Architecture
 * 💬 **Ask me about:** Java, C++, DSA, MERN Stack, REST APIs, MongoDB, and Web Development
-* 📫 **How to reach me:** [2k23.csiot2311977@gmail.com](mailto:shreyashsingh072@gmail.com)
+* 📫 **How to reach me:** [shreyashsingh072@gmail.com](mailto:shreyashsingh072@gmail.com)
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** Solving coding problems and building projects is my favorite way to learn new technologies.
 
